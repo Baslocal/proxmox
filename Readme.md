@@ -19,7 +19,7 @@ The LXC Image Builder script performs the following actions:
 
 The script is designed to work in a Proxmox Virtual Environment. Here's a snapshot of the Proxmox web interface showing various containers:
 
-<img width="1404" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/a0a31670-0023-4fdc-b461-6567874c684b">
+![image](https://github.com/user-attachments/assets/42fb22f2-0c6f-49eb-8116-4e39746a303f)
 
 <img width="1048" alt="Pasted Graphic 1" src="https://github.com/user-attachments/assets/e54ced2d-f76d-47a3-bab1-3aee3ecfd3cd">
 
